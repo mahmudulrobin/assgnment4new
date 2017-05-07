@@ -1,0 +1,75 @@
+body {}
+
+
+.facebook-section{}
+
+.menu{}
+
+.logo {}
+
+.logo img{}
+
+
+.login {}
+
+.login p{}
+
+.login span p{}
+    
+
+.login input[type="submit"] {}
+
+.login input[type="email"],
+.login input[type="password"] {}
+
+.signup-section{}
+
+.content{}
+
+.content p{}
+
+.content img{}
+
+.container{}
+
+.sign-up{}
+
+.sign-up h1{}
+
+.sign-up h3{}
+
+.sign-up h2{}
+.sign-up p{}
+
+.sign-up span{}
+
+.sign-up a{}
+
+.sign-up h4{}
+
+
+
+.sign-up input[type="text"],
+.sign-up input[type="password"],
+.sign-up input[type="email"] {}
+
+.sign-up input[type="submit"] {}
+
+
+
+.language {}
+
+.language a{}
+
+
+
+.link{}
+
+.link a{}
+
+	   
+
+.footer {}
+
+.footer p{}
+
